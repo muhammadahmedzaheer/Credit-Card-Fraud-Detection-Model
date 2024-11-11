@@ -1,4 +1,4 @@
-# Brainwave-Matrix-Intern-Task-2
+# Credit Card Fraud Detection Model
 
 This repository contains the code and dataset used for a project focused on detecting fraudulent transactions in credit card data. The project leverages both supervised and unsupervised learning techniques, particularly Random Forest, XGBoost, Autoencoder, and One-Class SVM models, to identify fraudulent transactions.
 
